@@ -1,10 +1,9 @@
 
 <a align="left" href="https://github.com/nmfs-openscapes/2025-nmfs-champions"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35px"/></a>
 
-# 2025 NMFS Champions A
+# 2025 NMFS Champions
 
-Welcome to the 2025 NMFS Champions A Cohort! This is a Cohort for
-\[TODO: who is this cohort for?\]. To learn more about what to expect
+Welcome to the 2025 NMFS Champions Program for NOAA Fisheries (National Marine Fisheries Service, NMFS)! This is the website for the three NOAA Fisheries Cohorts running concurrently in Fall 2025 with research teams and individuals from across NMFS Centers and Offices. To learn more about what to expect
 (the purpose, outcomes, and process of our Cohort) and to browse the
 open lesson materials, please see the [Champions Program Lesson
 Series](https://openscapes.github.io/series).
@@ -13,27 +12,26 @@ Series](https://openscapes.github.io/series).
 
 ## Cohort Agendas
 
-We will meet as a Cohort via Zoom five times over two months for 1.5
-hours each:
+Cohorts A, B, C will meet via Zoom five times over two months for 1.5
+hours each. Agendas are accessible to Cohort participants in our Cohort Google
+Drive Folders; they are an archive of our live google-doc'ing. Please see
+<https://openscapes.org/series> to view blank versions of the agendas.
 
+**Cohort A**
 - **Dates:** October 7, 21, November 4, 18, December 2
+- **Times:** 1:00 am - 2:30 pm PT
+- [CohortFolder] (link to come)
+
+**Cohort B**
+- **Dates:** October 8, 22, November 5, 19, December 3
+- **Times:** 10:00 - 11:30 am PT
+- [CohortFolder] (link to come)
+
+**Cohort C**
+- **Dates:** October 8, 22, November 5, 19, December 3
 - **Times:** 1:00 - 2:30 pm PT
-- **Location:** remotely, via Zoom
+- [CohortFolder] (link to come)
 
-Agendas are accessible to Cohort participants in our Cohort Google Drive
-Folder (link to come; they are also an archive of our live
-google-doc’ing. Please see <https://openscapes.org/series> to view blank
-versions of the agendas.
-
-<!---TODO create schedule table programmatically
-&#10;|Date  |Cohort Call Topics                                   |
-|:-----|:----------------------------------------------------|
-|10/07 |Openscapes mindset                                   |
-|10/21 |GitHub for publishing & project management           |
-|11/04 |Team culture and data strategies for future us       |
-|11/18 |Open communities and coding strategies for future us |
-|12/02 |Pathways share and next steps                        |
---->
 
 | Cohort Call Topics | Lesson Series Chapters | Seaside Chat Topics |
 |----|----|----|
@@ -57,24 +55,23 @@ questions and screensharing to learn and problem solve. We will make
 breakout rooms so people working on related themes can meet and learn
 from each other.
 
-- **Dates:**
-- **Times:**
+- **Dates:** TBD
+- **Times:** TBD
 - **Location:** remotely, via Zoom
-
-## Participating teams and individuals
-
-Some brief information about participating teams and individuals. Please
-add any edits directly (we’ll learn how in our GitHub Clinic!)
 
 ## Our Team
 
-Julie Lowndes (@jules32), Openscapes Stefanie Butland
-(@stefaniebutland), Openscapes Andy Teucher (@teucher), Openscapes
+Julie Lowndes (@jules32), Openscapes  
+Stefanie Butland (@stefaniebutland), Openscapes  
+Andy Teucher (@teucher), Openscapes  
+Eli Holmes (@eeholmes), NMFS Open Science  
+Jon Peake (@jonpeake), NMFS Open Science  
+
 
 ## More about Openscapes and the Champions program:
 
 - [**Our path to better science in less time using open data science
-  tools**](https://www.nature.com/articles/s41559-017-0160) (Lowndes et
+  tools**](https://ohi-science.org/betterscienceinlesstime/article) (Lowndes et
   al. 2017) - This describes a marine science team’s transition to open
   collaborative teamwork. It was the original inspiration for creating
   the Champions Program and heavily influences the Core Lessons. We’ll
