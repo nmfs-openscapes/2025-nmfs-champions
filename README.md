@@ -38,12 +38,10 @@ agendas.
 | 4\. Open communities; coding strategies and cloud workflows | [open communities](https://openscapes.github.io/series/core-lessons/communities), [coding strategies](https://openscapes.github.io/series/core-lessons/coding-strategies) | Pathways preparation |
 | 5\. Pathways share and next steps | [pathways](https://openscapes.github.io/series/core-lessons/pathways) |  |
 
-```{=html}
-<!---TODO: link to issues labeled 'digest'. 
+<!--- TODO: link to issues labeled 'digest'. 
 Note result will be empty until after first call digest is posted.
-&#10;[**Cohort Call Digests**](issues)
+[**Cohort Call Digests**](issues)
 --->
-```
 
 ## Coworking times (optional)
 
