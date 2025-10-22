@@ -22,7 +22,7 @@ Please see <https://openscapes.org/series> to view blank versions of the
 agendas.
 
 **Cohort A** - **Dates:** October 7, 21, November 4, 18, December 2 -
-**Times:** 1:00 am - 2:30 pm PT - [CohortFolder] (link to come)
+**Times:** 1:00 - 2:30 pm PT - [CohortFolder] (link to come)
 
 **Cohort B** - **Dates:** October 8, 22, November 5, 19, December 3 -
 **Times:** 10:00 - 11:30 am PT - [CohortFolder] (link to come)
