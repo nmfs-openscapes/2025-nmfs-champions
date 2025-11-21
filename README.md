@@ -21,14 +21,14 @@ Google Drive Folders; they are an archive of our live google-doc'ing.
 Please see <https://openscapes.org/series> to view blank versions of the
 agendas.
 
-**Cohort A** - **Dates:** October 7, 21, November 4, 18, December 2 -
-**Times:** 1:00 - 2:30 pm PT - [CohortFolder] (link to come)
+**Cohort A** - **Dates:** Nov 18, Dec 2, 16, Jan 6, 20
+**Times:** 1:00 - 2:30 pm PT - [CohortFolder](https://drive.google.com/drive/folders/1rR6BGn00wvoesSbvgH4466KwPRfAwxq7?usp=drive_link)
 
-**Cohort B** - **Dates:** October 8, 22, November 5, 19, December 3 -
-**Times:** 10:00 - 11:30 am PT - [CohortFolder] (link to come)
+**Cohort B** - **Dates:** Nov 19, Dec 3, 17, Jan 7, 21
+**Times:** 10:00 - 11:30 am PT - [CohortFolder](https://drive.google.com/drive/folders/1RX916BqGzg6wPetm7KSXzg_Qgvs6-zzU?usp=drive_link)
 
-**Cohort C** - **Dates:** October 8, 22, November 5, 19, December 3 -
-**Times:** 1:00 - 2:30 pm PT - [CohortFolder] (link to come)
+**Cohort C** - **Dates:** Nov 19, Dec 3, 17, Jan 7, 21
+**Times:** 1:00 - 2:30 pm PT - [CohortFolder](https://drive.google.com/drive/folders/1WfOgH_NL3Z1C4uVkhgYmMhWKJMR7S3mR?usp=drive_link)
 
 | Cohort Call Topics | Lesson Series Chapters | Seaside Chat Topics |
 |------------------------|------------------------|------------------------|
