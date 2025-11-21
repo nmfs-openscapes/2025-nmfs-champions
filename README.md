@@ -17,9 +17,8 @@ Program Lesson Series](https://openscapes.github.io/series).
 
 Cohorts A, B, C will meet via Zoom five times over two months for 1.5
 hours each. Agendas are accessible to Cohort participants in our Cohort
-Google Drive Folders; they are an archive of our live google-doc'ing.
-Please see <https://openscapes.org/series> to view blank versions of the
-agendas.
+Google Drive Folders; they are an archive of our live google-doc'ing. [Template versions of our
+agendas](https://drive.google.com/drive/u/1/folders/1Iq8tj81TSfr-RstphVTZWoz783xpJMOb).
 
 **Cohort A** - **Dates:** Nov 18, Dec 2, 16, Jan 6, 20
 **Times:** 1:00 - 2:30 pm PT - [CohortFolder](https://drive.google.com/drive/folders/1rR6BGn00wvoesSbvgH4466KwPRfAwxq7?usp=drive_link)
