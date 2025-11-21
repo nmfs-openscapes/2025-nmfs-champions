@@ -51,7 +51,7 @@ questions and screensharing to learn and problem solve. We will make
 breakout rooms so people working on related themes can meet and learn
 from each other.
 
--   **Dates:** Tuesdays, Oct 14, 28, Nov 11, 25.
+-   **Dates:** Tuesdays, Nov 25, Dec 9, Jan 13.
 -   **Times:** 12:00 - 1:30 PT
 -   **Location:** remotely, via Zoom
 
@@ -59,7 +59,7 @@ from each other.
 
 Julie Lowndes (@jules32), Openscapes\
 Stefanie Butland (@stefaniebutland), Openscapes\
-Andy Teucher (@teucher), Openscapes\
+Andy Teucher (@ateucher), Openscapes\
 Eli Holmes (@eeholmes), NMFS Open Science\
 Jon Peake (@jonpeake), NMFS Open Science
 
