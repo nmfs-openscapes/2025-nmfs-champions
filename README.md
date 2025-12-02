@@ -31,7 +31,7 @@ agendas](https://drive.google.com/drive/u/1/folders/1Iq8tj81TSfr-RstphVTZWoz783x
 
 | Cohort Call Topics | Lesson Series Chapters | Seaside Chat Topics |
 |------------------------|------------------------|------------------------|
-| 1\. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science for future us](https://openscapes.github.io/series/core-lessons/better-science) | Pathway trailhead |
+| 1\. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science for future us](https://openscapes.github.io/series/core-lessons/better-science), [NOAA Fisheries infrastructure & support](https://docs.google.com/presentation/d/1d74JVjc1Ndh4L__qM5AgMiRLLQdI7rJb/) | Pathway trailhead |
 | 2\. Team culture and (meta)data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [documenting your data](https://openscapes.github.io/series/core-lessons/data-strategies) | Documenting your data; create ORCID account; create Zenodo Sandbox account |
 | 3\. Zenodo Clinic: Archive your first or second data set |  | Data preservation |
 | 4\. Open communities; coding strategies and cloud workflows | [open communities](https://openscapes.github.io/series/core-lessons/communities), [coding strategies](https://openscapes.github.io/series/core-lessons/coding-strategies) | Pathways preparation |
