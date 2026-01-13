@@ -61,8 +61,8 @@ Julie Lowndes (@jules32), Openscapes\
 Stefanie Butland (@stefaniebutland), Openscapes\
 Andy Teucher (@ateucher), Openscapes\
 Eli Holmes (@eeholmes), NMFS Open Science\  
-Jon Peake (@jonpeake), NMFS Open Science
-Rachael Blake (@reblake), Intertiday Agency  
+Jon Peake (@jonpeake), NMFS Open Science\
+Rachael Blake (@reblake), Intertiday Agency\ 
 Kate Wing (@katewing), Intertiday Agency  
 
 ## Participants
