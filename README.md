@@ -34,13 +34,14 @@ agendas](https://drive.google.com/drive/u/1/folders/1Iq8tj81TSfr-RstphVTZWoz783x
 | 1\. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science for future us](https://openscapes.github.io/series/core-lessons/better-science), [NOAA Fisheries infrastructure & support](https://docs.google.com/presentation/d/1d74JVjc1Ndh4L__qM5AgMiRLLQdI7rJb/) | Pathway trailhead |
 | 2\. Team culture and (meta)data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/core-lessons/data-strategies) | Documenting your data; create ORCID account; create Zenodo Sandbox account |
 | 3\. Zenodo Clinic: Archive your first or second data set | [data strategies](https://openscapes.github.io/series/core-lessons/data-strategies) | Data archiving & preservation |
-| 4\. Open communities; coding strategies and cloud workflows | [open communities](https://openscapes.github.io/series/core-lessons/communities), [coding strategies](https://openscapes.github.io/series/core-lessons/coding-strategies) | Pathways preparation |
+| 4\. Open communities; coding strategies and cloud workflows* | [open communities](https://openscapes.github.io/series/core-lessons/communities), [coding strategies](https://openscapes.github.io/series/core-lessons/coding-strategies) | Pathways preparation |
 | 5\. Pathways share and next steps | [pathways](https://openscapes.github.io/series/core-lessons/pathways) |  |
 
-<!--- TODO: link to issues labeled 'digest'. 
-Note result will be empty until after first call digest is posted.
-[**Cohort Call Digests**](issues)
---->
+[**Cohort Call Digests**](https://github.com/nmfs-openscapes/2025-nmfs-champions/issues?q=sort%3Aupdated-desc%20is%3Aissue%20is%3Aopen%20label%3Adigest)
+
+### *Google Workstations Clinic 
+Molly Stevens (SEFSC, Mentor), Alex Norelli (SEFSC, 2025 Champion), and Jon Peake (NMFS Open Science) also developed and hosted a Google Workstations Clinic and documented NOAA Fisheries Cloud Computing Setup.
+
 
 ## Coworking times (optional)
 
