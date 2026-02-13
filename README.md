@@ -40,7 +40,7 @@ agendas](https://drive.google.com/drive/u/1/folders/1Iq8tj81TSfr-RstphVTZWoz783x
 [**Cohort Call Digests**](https://github.com/nmfs-openscapes/2025-nmfs-champions/issues?q=sort%3Aupdated-desc%20is%3Aissue%20is%3Aopen%20label%3Adigest)
 
 ### *Google Workstations Clinic 
-Molly Stevens (SEFSC, Mentor), Alex Norelli (SEFSC, 2025 Champion), and Jon Peake (NMFS Open Science) also developed and hosted a Google Workstations Clinic and documented NOAA Fisheries Cloud Computing Setup.
+Molly Stevens (SEFSC, Mentor), Alex Norelli (SEFSC, 2025 Champion), and Jon Peake (NMFS Open Science) also developed and hosted a Google Workstations Clinic and documented [NOAA Fisheries Cloud Computing Setup](https://github.com/nmfs-opensci/CloudComputingSetup/).
 
 
 ## Coworking times (optional)
