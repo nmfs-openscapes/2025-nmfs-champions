@@ -34,7 +34,7 @@ agendas](https://drive.google.com/drive/u/1/folders/1Iq8tj81TSfr-RstphVTZWoz783x
 | 1\. Openscapes mindset | [mindset](https://openscapes.github.io/series/mindset), [better science for future us](https://openscapes.github.io/series/core-lessons/better-science), [NOAA Fisheries infrastructure & support](https://docs.google.com/presentation/d/1d74JVjc1Ndh4L__qM5AgMiRLLQdI7rJb/) | Pathway trailhead |
 | 2\. Team culture and (meta)data strategies for future us | [team culture](https://openscapes.github.io/series/team-culture), [data strategies](https://openscapes.github.io/series/core-lessons/data-strategies) | Documenting your data; create ORCID account; create Zenodo Sandbox account |
 | 3\. Zenodo Clinic: Archive your first or second data set | [data strategies](https://openscapes.github.io/series/core-lessons/data-strategies) | Data archiving & preservation |
-| 4\. Open communities; cloud clinic* | [open communities](https://openscapes.github.io/series/core-lessons/communities), [cloud clinic - Eli Holmes]([https://openscapes.github.io/series/core-lessons/coding-strategies](https://gamma.app/docs/Cloud-Clinic-361wjiw6rh2pw2m?mode=doc)) | Pathways preparation |
+| 4\. Open communities; cloud clinic* | [open communities](https://openscapes.github.io/series/core-lessons/communities), [cloud clinic - Eli Holmes](https://gamma.app/docs/Cloud-Clinic-361wjiw6rh2pw2m?mode=doc)) | Pathways preparation |
 | 5\. Pathways share and next steps | [pathways](https://openscapes.github.io/series/core-lessons/pathways) |  |
 
 [**Cohort Call Digests**](https://github.com/nmfs-openscapes/2025-nmfs-champions/issues?q=sort%3Aupdated-desc%20is%3Aissue%20is%3Aopen%20label%3Adigest)
