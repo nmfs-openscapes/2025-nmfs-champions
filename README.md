@@ -11,6 +11,8 @@ about what to expect (the purpose, outcomes, and process of our Cohort)
 and to browse the open lesson materials, please see the [Champions
 Program Lesson Series](https://openscapes.github.io/series).
 
+This cohort has completed. Their work is featured in a [blog post](https://openscapes.org/blog/2026-02-26-nmfs-champions-2025/): "Cloud migration and data preservation progress across NOAA Fisheries - Fall 2025 Champions Recap".
+
 <img src="horst-champions-trailhead.png" align="right" width="450"/>
 
 ## Cohort Agendas
